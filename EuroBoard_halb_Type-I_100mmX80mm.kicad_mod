@@ -2,10 +2,10 @@
   (at 0 0)
   (descr "Outline, Eurocard 1/2, Type I, 100x80mm,")
   (tags "Outline, Eurocard 1/2, Type I, 100x80mm,")
-  (fp_text reference EuroBoard_halb_Type-I_100mmX80mm (at 54.61 -86.36) (layer F.SilkS)
+  (fp_text reference REF** (at 54.61 -86.36) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 53.34 7.62) (layer F.SilkS) hide
+  (fp_text value EuroBoard_halb_Type-I_100mmX80mm (at 53.34 7.62) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 0 0) (end 0 -79.99984) (layer Edge.Cuts) (width 0.381))
